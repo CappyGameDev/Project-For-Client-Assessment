@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 408b6c2cfb37cca40a923f94ad6aeb6d
+timeCreated: 1528067047
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AppleGreen
+    100002: AppleRed
+    100004: ButterDish
+    100006: Cheese
+    100008: EggCarton
+    100010: Fridge1
+    100012: FridgeDoor
+    100014: //RootNode
+    100016: Handle
+    100018: JuiceCarton
+    100020: MilkCarton
+    100022: SauceKetchup
+    100024: SauceMustard
+    100026: SodaBottle
+    100028: SodaCan
+    100030: Tray1
+    100032: Tray2
+    100034: YogurtTub
+    400000: AppleGreen
+    400002: AppleRed
+    400004: ButterDish
+    400006: Cheese
+    400008: EggCarton
+    400010: Fridge1
+    400012: FridgeDoor
+    400014: //RootNode
+    400016: Handle
+    400018: JuiceCarton
+    400020: MilkCarton
+    400022: SauceKetchup
+    400024: SauceMustard
+    400026: SodaBottle
+    400028: SodaCan
+    400030: Tray1
+    400032: Tray2
+    400034: YogurtTub
+    2100000: Fridgeables
+    2300000: AppleGreen
+    2300002: AppleRed
+    2300004: ButterDish
+    2300006: Cheese
+    2300008: EggCarton
+    2300010: Fridge1
+    2300012: FridgeDoor
+    2300014: Handle
+    2300016: JuiceCarton
+    2300018: MilkCarton
+    2300020: SauceKetchup
+    2300022: SauceMustard
+    2300024: SodaBottle
+    2300026: SodaCan
+    2300028: Tray1
+    2300030: Tray2
+    2300032: YogurtTub
+    3300000: AppleGreen
+    3300002: AppleRed
+    3300004: ButterDish
+    3300006: Cheese
+    3300008: EggCarton
+    3300010: Fridge1
+    3300012: FridgeDoor
+    3300014: Handle
+    3300016: JuiceCarton
+    3300018: MilkCarton
+    3300020: SauceKetchup
+    3300022: SauceMustard
+    3300024: SodaBottle
+    3300026: SodaCan
+    3300028: Tray1
+    3300030: Tray2
+    3300032: YogurtTub
+    4300000: Fridge1
+    4300002: Tray1
+    4300004: Tray2
+    4300006: Handle
+    4300008: FridgeDoor
+    4300010: SauceKetchup
+    4300012: SodaBottle
+    4300014: SodaCan
+    4300016: EggCarton
+    4300018: JuiceCarton
+    4300020: AppleRed
+    4300022: AppleGreen
+    4300024: ButterDish
+    4300026: Cheese
+    4300028: MilkCarton
+    4300030: YogurtTub
+    4300032: SauceMustard
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
